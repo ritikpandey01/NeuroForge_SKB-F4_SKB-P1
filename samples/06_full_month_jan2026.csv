@@ -1,0 +1,26 @@
+facility_name,scope,category,subcategory,activity_description,quantity,unit,period_start,period_end,source_document,data_quality_score
+Pune Factory,2,electricity,grid_india,MSEDCL grid electricity - main feeder,178200,kWh,2026-01-01,2026-01-31,MSEDCL-INV-202601-PUN,5
+Pune Factory,2,electricity,solar_ppa,Rooftop solar generation - self-consumption,29400,kWh,2026-01-01,2026-01-31,SOLAR-METER-202601-PUN,4
+Chennai Factory,2,electricity,grid_india,TANGEDCO grid electricity - HT connection,142800,kWh,2026-01-01,2026-01-31,TANGEDCO-INV-202601-CHN,5
+Chennai Factory,2,electricity,solar_ppa,Rooftop solar generation - self-consumption,18500,kWh,2026-01-01,2026-01-31,SOLAR-METER-202601-CHN,4
+Mumbai Corporate Office,2,electricity,grid_india,BEST grid electricity - BKC tower,19200,kWh,2026-01-01,2026-01-31,BEST-INV-202601-BKC,5
+Pune Factory,1,fuel,diesel,DG set + forklift diesel,2100,litre,2026-01-01,2026-01-31,IOCL-RB-202601-PUN,5
+Chennai Factory,1,fuel,diesel,DG set diesel - 250 kVA backup,3920,litre,2026-01-01,2026-01-31,IOCL-RB-202601-CHN,5
+Pune Factory,1,fuel,natural_gas,Process heating - pre-treatment furnace,8200,m3,2026-01-01,2026-01-31,MGL-INV-202601-PUN,5
+Chennai Factory,1,fuel,natural_gas,Process heating - boiler natural gas,11850,m3,2026-01-01,2026-01-31,GAIL-INV-202601-CHN,5
+Chennai Factory,1,fuel,lpg,Canteen LPG cylinders,140,litre,2026-01-01,2026-01-31,IOC-LPG-202601-CHN,4
+Pune Factory,1,refrigerant,r410a,AHU refrigerant top-up - annual maintenance,2.8,kg,2026-01-15,2026-01-15,COOLTECH-WO-2026-003,4
+Pune Factory,3,material,steel,Hot-rolled coil purchases - JSW,640000,kg,2026-01-01,2026-01-31,JSW-PO-2026-0018,4
+Pune Factory,3,material,aluminium,Aluminium ingot purchases - Hindalco,88000,kg,2026-01-01,2026-01-31,HINDALCO-PO-2026-0011,4
+Pune Factory,3,material,copper,Copper wire rod purchases,12400,kg,2026-01-01,2026-01-31,HINDCO-PO-2026-0007,4
+Chennai Factory,3,material,steel,Cold-rolled steel sheets - Tata Steel,425000,kg,2026-01-01,2026-01-31,TATA-STEEL-PO-2026-0024,4
+Chennai Factory,3,material,plastics_general,Engineering plastics - automotive interiors,18600,kg,2026-01-01,2026-01-31,SUPREME-PO-2026-0009,3
+Pune Factory,3,freight,road_hgv,Inbound steel logistics - Vijayanagar to Pune,195000,tonne-km,2026-01-01,2026-01-31,GATI-INV-202601-PUN,4
+Chennai Factory,3,freight,road_hgv,Inbound materials - Chennai port to plant,82000,tonne-km,2026-01-01,2026-01-31,VRL-INV-202601-CHN,4
+Pune Factory,3,freight,rail,Outbound finished goods - rail to Delhi NCR,58000,tonne-km,2026-01-01,2026-01-31,CONCOR-INV-202601-PUN,4
+Mumbai Corporate Office,3,travel,flight_domestic,Mumbai-Delhi-Bangalore sales team flights,22400,passenger-km,2026-01-01,2026-01-31,CONCUR-EXP-202601-DOM,3
+Mumbai Corporate Office,3,travel,flight_international,Mumbai-Singapore leadership offsite,18900,passenger-km,2026-01-15,2026-01-19,CONCUR-EXP-202601-INT,3
+Mumbai Corporate Office,3,travel,taxi,Local taxi - client visits,4800,km,2026-01-01,2026-01-31,OLA-CORP-202601,3
+Pune Factory,3,waste,landfill_mixed,Industrial non-hazardous waste to landfill,2650,kg,2026-01-01,2026-01-31,RAMKY-WD-202601-PUN,3
+Chennai Factory,3,waste,landfill_mixed,Industrial non-hazardous waste to landfill,1940,kg,2026-01-01,2026-01-31,RAMKY-WD-202601-CHN,3
+Pune Factory,3,waste,recycled_mixed,Steel scrap + cardboard to recyclers,3200,kg,2026-01-01,2026-01-31,RAMKY-WD-202601-PUN-R,3

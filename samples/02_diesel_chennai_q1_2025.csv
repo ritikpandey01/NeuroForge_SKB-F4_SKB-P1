@@ -1,0 +1,8 @@
+facility_name,scope,category,subcategory,activity_description,quantity,unit,period_start,period_end,source_document,data_quality_score
+Chennai Factory,1,fuel,diesel,DG set diesel - 250 kVA backup,3850,litre,2025-01-01,2025-01-31,IOCL-RB-202501-CHN,5
+Chennai Factory,1,fuel,diesel,DG set diesel - 250 kVA backup,4120,litre,2025-02-01,2025-02-28,IOCL-RB-202502-CHN,5
+Chennai Factory,1,fuel,diesel,DG set diesel - 250 kVA backup,3680,litre,2025-03-01,2025-03-31,IOCL-RB-202503-CHN,5
+Chennai Factory,1,fuel,natural_gas,Process heating - boiler natural gas,11400,m3,2025-01-01,2025-01-31,GAIL-INV-202501-CHN,5
+Chennai Factory,1,fuel,natural_gas,Process heating - boiler natural gas,10800,m3,2025-02-01,2025-02-28,GAIL-INV-202502-CHN,5
+Chennai Factory,1,fuel,natural_gas,Process heating - boiler natural gas,12600,m3,2025-03-01,2025-03-31,GAIL-INV-202503-CHN,5
+Chennai Factory,1,fuel,lpg,Canteen LPG cylinders,420,litre,2025-01-01,2025-03-31,IOC-LPG-Q1-2025,4

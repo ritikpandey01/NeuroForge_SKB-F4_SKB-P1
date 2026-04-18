@@ -1,0 +1,10 @@
+facility_name,scope,category,subcategory,activity_description,quantity,unit,period_start,period_end,source_document,data_quality_score
+Mumbai Corporate Office,2,electricity,grid_india,BEST grid electricity - office tower,18500,kWh,2025-01-01,2025-01-31,BEST-INV-202501,5
+Pune Factory,3,material,steel,Hot-rolled coil purchases for chassis,620000,kg,2025-01-01,2025-01-31,JSW-PO-2025-0142,4
+Pune Factory,3,material,aluminium,Aluminium ingot purchases,84000,kg,2025-01-01,2025-01-31,HINDALCO-PO-2025-0098,4
+Chennai Factory,3,material,steel,Cold-rolled steel sheets,410000,kg,2025-01-01,2025-01-31,TATA-STEEL-PO-2025-0211,4
+Mumbai Corporate Office,3,travel,flight_domestic,Mumbai-Delhi business travel - sales team,18400,passenger-km,2025-01-01,2025-01-31,CONCUR-EXP-202501,3
+Mumbai Corporate Office,3,travel,flight_international,Mumbai-Singapore conference,15600,passenger-km,2025-01-15,2025-01-19,CONCUR-EXP-202501-INT,3
+Pune Factory,3,freight,road_hgv,Inbound steel logistics - JSW to Pune,182000,tonne-km,2025-01-01,2025-01-31,GATI-INV-2025-0341,4
+Chennai Factory,3,waste,landfill_mixed,Industrial waste to municipal landfill,2400,kg,2025-01-01,2025-01-31,CHN-WASTE-202501,3
+Pune Factory,1,refrigerant,r410a,AHU refrigerant top-up - annual maintenance,4.2,kg,2025-01-15,2025-01-15,COOLTECH-WO-2025-018,4

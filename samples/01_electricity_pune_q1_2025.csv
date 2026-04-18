@@ -1,0 +1,7 @@
+facility_name,scope,category,subcategory,activity_description,quantity,unit,period_start,period_end,source_document,data_quality_score
+Pune Factory,2,electricity,grid_india,MSEDCL grid electricity - main feeder,182400,kWh,2025-01-01,2025-01-31,MSEDCL-INV-202501-PUN,5
+Pune Factory,2,electricity,grid_india,MSEDCL grid electricity - main feeder,168900,kWh,2025-02-01,2025-02-28,MSEDCL-INV-202502-PUN,5
+Pune Factory,2,electricity,grid_india,MSEDCL grid electricity - main feeder,194300,kWh,2025-03-01,2025-03-31,MSEDCL-INV-202503-PUN,5
+Pune Factory,2,electricity,solar_ppa,Rooftop solar generation - in-house consumption,28100,kWh,2025-01-01,2025-01-31,SOLAR-METER-202501,4
+Pune Factory,2,electricity,solar_ppa,Rooftop solar generation - in-house consumption,32400,kWh,2025-02-01,2025-02-28,SOLAR-METER-202502,4
+Pune Factory,2,electricity,solar_ppa,Rooftop solar generation - in-house consumption,41200,kWh,2025-03-01,2025-03-31,SOLAR-METER-202503,4
